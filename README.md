@@ -6,8 +6,8 @@ Full Stack Developer
 
 Student | Full Stack Developer
 
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on new projects
+*   🧠  I'm learning ** React**
+*   🤝  I'm open to collaborating on **new projects**
 *   ✉️  You can contact me at [hemanth9679@gmail.com](mailto:hemanth9679@gmail.com)
 
 <a href="https://www.github.com/hemanth-92" target="_blank" rel="noreferrer"><img
