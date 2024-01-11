@@ -1,4 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hemanth===============================================================================================================================Full Stack Developer--------------------Student | Full Stack Developer* ✉️  You can contact me at [hemanth9679@gmail.com](mailto:hemanth9679@gmail.com)* 🧠  I'm learning React\* 🤝  I'm open to collaborating on new projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hemanth
+===============================================================================================================================
+
+Full Stack Developer
+--------------------
+
+Student | Full Stack Developer
+
+*   ✉️  You can contact me at [hemanth9679@gmail.com](mailto:hemanth9679@gmail.com)
+*   🧠  I'm learning React
+*   🤝  I'm open to collaborating on new projects
 
 <a href="https://www.github.com/hemanth-92" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hemanth-92?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
