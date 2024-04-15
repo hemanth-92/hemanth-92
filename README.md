@@ -1,5 +1,5 @@
 ### Hi there 👋  I’m Hemanth
-I'm an aspiring software engineer, currently learning React, TypeScript & Nix.
+### I'm an aspiring software engineer, currently learning React, TypeScript & Nix.
 
 ### My stats 📊
 [![hemanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanth-92&show_icons=true&hide=stars&theme=github_dark)][stats]
