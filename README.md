@@ -6,7 +6,6 @@
 
 <div style="display: flex; justify-content: space-between;">
     <p align="center"><img aligm="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-92&layout=compact&theme=gruvbox&hide_border=true" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanth-92&show_icons=true&theme=gruvbox&border_radius=7.5&hide_border=true" alt="hemanth" /></p>
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-92&theme=gruvbox&border_radius=7.5&hide_border=true" alt="hemanth" /></p>
+    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hemanth-92&show_icons=true&theme=gruvbox&border_radius=7.5&hide_border=true" alt="filip-nachov" /></p>
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-92&theme=gruvbox&border_radius=7.5&hide_border=true" alt="filip-nachov" /></p>
 </div>
